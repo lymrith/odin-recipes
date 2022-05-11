@@ -1,0 +1,64 @@
+/*styles.css*/
+
+body{
+    background-color: rgb(10, 10, 10);
+    color: rgb(238, 234, 234);
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.5px;
+}
+
+li{
+    margin: 3.5px;
+}
+
+.border {
+    height: 100px;
+    border: 7px transparent;
+    float: inline-end;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pasta-img {
+    height: 500px;
+    width: auto;
+}
+
+.r-title {
+    height: 150px;
+    font-size: 50px;
+}
+
+.home-b {
+    font-size: 40px;
+}
+
+.pasta-border {
+    height: 525px;
+}
+
+.desc{
+    height: 25px;
+}
+
+.ing {
+    height: 200px;
+}
+
+.steps {
+    height: 200px;
+}
+
+/*Page 1 Elements*/
+
+.title {
+    height: 300px;
+    font-size: 100px;
+}
+
+.list{
+    font-size: 30px;
+}
+
+
